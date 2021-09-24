@@ -1,0 +1,22 @@
+h1{
+    color: aqua;
+    background-color: blueviolet;
+  text-align: center;
+}
+
+img{
+
+    height: 300px;
+    width: 500px;
+}
+
+.container{
+    display: flex;
+}
+
+h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    padding-left: 80px;
+ }
+
